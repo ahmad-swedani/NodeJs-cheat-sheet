@@ -1,6 +1,6 @@
-# nodeJs
+# NodeJs-cheat-sheet
 
-Node.js is a Javascript runtime environment built on Google's open source `V8 Javascript Engine` with other dependencies.
+General information about NodeJs written with love 😍
 
 | **Topic**                                               | **Reading Time** | **Notes**-                                |
 | ------------------------------------------------------- | ---------------- | ----------------------------------------- |

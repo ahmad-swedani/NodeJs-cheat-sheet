@@ -59,3 +59,5 @@ The build system is handled by gyp, a python-based project generator copied from
 Native code can be tested using gtest, which is taken from Chromium. It allows testing C/C++ without needing an existing node executable to bootstrap from.
 
 [Documentation](https://code.google.com/p/googletest/wiki/V1_7_Documentation)
+
+[Home](/README.md) | [About me](https://github.com/ahmad-swedani)

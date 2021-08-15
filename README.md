@@ -8,4 +8,4 @@ General information about NodeJs written with love 😍
 | [Node-Dependencies](./node-dependencies.md)             | 10 min           | ---                                       |
 | [Express Middleware Functions](./middleware-express.md) | 7 min            | how to create your own express middleware |
 
-[Home](/README.md) | [About me](https://github.com/ahmad-swedani)
+[About me](https://github.com/ahmad-swedani)
